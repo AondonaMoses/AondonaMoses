@@ -2,10 +2,6 @@
 <h1 align="center">Hi, I'm Aondona Moses (AI Moses) 👋</h1>
 <h3 align="center">Medical Physicist | AI Researcher | Data Scientist | Founder @ NILEEDGE</h3>
 
-<p float="left">
-  <img src="https://github.com/AondonaMoses/AondonaMoses/blob/main/IMG-20250517-WA0000.jpg?raw=true" alt="Aondona Moses" width="120" style="float: right; margin-left: 20px; border-radius: 10%;" />
-</p>
-
 <p align="center">
   <a href="www.linkedin.com/in/aondona-iorumbur-48373a197" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
@@ -22,6 +18,9 @@
 </p>
 
 ---
+<p float="left">
+  <img src="https://github.com/AondonaMoses/AondonaMoses/blob/main/IMG-20250517-WA0000.jpg?raw=true" alt="Aondona Moses" width="120" style="float: right; margin-left: 20px; border-radius: 10%;" />
+</p>
 
 ## 👨‍⚕️ About Me
 
@@ -93,7 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AondonaMoses&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ---
 
