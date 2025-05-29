@@ -18,9 +18,7 @@
 </p>
 
 ---
-<p float="left">
-  <img src="https://github.com/AondonaMoses/AondonaMoses/blob/main/IMG-20250517-WA0000.jpg?raw=true" alt="Aondona Moses" width="120" style="float: right; margin-left: 20px; border-radius: 10%;" />
-</p>
+
 
 ## 👨‍⚕️ About Me
 
